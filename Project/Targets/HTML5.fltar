@@ -6,7 +6,9 @@
   Destinations=""
   GlossaryTermConversion="marked"
   Skin="/Project/Skins/HTML5 - Tripane.flskn"
-  DefaultUrl="/Content/Topic.htm">
+  DefaultUrl="/Content/Topic.htm"
+  CentralLinkIds=""
+  TargetLanguage="en-us,ar-iq_../../GIT_T2/GIT_T2.flprj">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
